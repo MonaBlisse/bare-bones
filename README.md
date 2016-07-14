@@ -13,4 +13,6 @@ What's Included?
 - img
 - js
 
-If you prefer to use Sass, there's a separate folder within the CSS folder
+If you prefer to use Sass, there's a separate folder within the CSS folder.
+
+Note: The img and js folders are missing because they're empty. Just be sure to create these folders within your own project.
